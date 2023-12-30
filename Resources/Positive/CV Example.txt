@@ -1,0 +1,36 @@
+Alice Johnson
+
+Objective:
+Skilled data scientist with a strong background in machine learning and data analysis. Seeking opportunities to apply my expertise in extracting valuable insights from large datasets.
+
+Skills:
+- Programming: Python, R
+- Machine Learning: Scikit-Learn, TensorFlow
+- Data Analysis: Pandas, NumPy
+- Statistical Modeling
+- Data Visualization: Matplotlib, Seaborn
+
+Education:
+Master of Science in Data Science
+Analytics Institute, Tech City, USA
+Graduated: December 2020
+
+Experience:
+Data Scientist
+Insights Co., Tech City, USA
+January 2021 - Present
+- Implemented machine learning models for predictive analytics.
+- Conducted exploratory data analysis and presented findings to stakeholders.
+
+Projects:
+1. Predictive Maintenance System
+   - Developed a predictive maintenance system using machine learning algorithms to minimize downtime.
+
+2. Customer Segmentation Analysis
+   - Conducted a customer segmentation analysis to optimize marketing strategies.
+
+Certifications:
+- Machine Learning Engineer Certificate (XYZ Academy)
+
+References:
+Available upon request.

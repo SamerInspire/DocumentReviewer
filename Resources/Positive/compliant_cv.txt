@@ -1,0 +1,36 @@
+John Smith
+
+Objective:
+Experienced software engineer with expertise in full-stack web development. Seeking a challenging role to contribute to innovative projects using my skills in Java, Spring Boot, and React.
+
+Skills:
+- Languages: Java, JavaScript
+- Web Development: HTML, CSS, React
+- Backend: Spring Boot, Node.js
+- Database: MySQL, MongoDB
+- Version Control: Git
+
+Education:
+Bachelor of Science in Computer Science
+Tech University, Cityville, USA
+Graduated: May 2018
+
+Experience:
+Software Engineer
+Tech Solutions Inc., Cityville, USA
+July 2018 - Present
+- Developed and maintained web applications using Java and Spring Boot.
+- Collaborated with cross-functional teams for successful project delivery.
+
+Projects:
+1. Online Shopping Platform
+   - Led the development of a responsive online shopping platform using React and Spring Boot.
+
+2. Employee Management System
+   - Designed and implemented an employee management system with Node.js and MongoDB.
+
+Certifications:
+- Full-Stack Web Development Certificate (XYZ Institute)
+
+References:
+Available upon request.

@@ -1,0 +1,39 @@
+Ella Martinez
+
+Objective:
+Dedicated data scientist with a strong background in machine learning and data analysis. Seeking opportunities to apply my expertise in extracting valuable insights from large datasets using Python, R, and TensorFlow.
+
+Major:
+Full Stack Developer
+
+Skills:
+- Programming: Python, R
+- Machine Learning: Scikit-Learn, TensorFlow
+- Data Analysis: Pandas, NumPy
+- Statistical Modeling
+- Data Visualization: Matplotlib, Seaborn
+
+Education:
+Master of Science in Data Science
+Analytics Institute, Tech City, USA
+Graduated: December 2019
+
+Experience:
+Data Scientist
+Insights Co., Tech City, USA
+January 2020 - Present
+- Implemented machine learning models for predictive analytics.
+- Conducted exploratory data analysis and presented findings to stakeholders.
+
+Projects:
+1. Fraud Detection System
+   - Developed a fraud detection system using machine learning algorithms to minimize financial risks.
+
+2. Customer Churn Prediction
+   - Conducted a customer churn prediction analysis, leading to improved customer retention strategies.
+
+Certifications:
+- Machine Learning Engineer Certificate (XYZ Academy)
+
+References:
+Available upon request.

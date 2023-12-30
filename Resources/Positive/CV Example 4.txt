@@ -1,0 +1,36 @@
+Olivia Johnson
+
+Objective:
+Results-oriented software developer passionate about creating high-quality applications. Seeking a challenging role to contribute my skills in Java, C#, and React to dynamic and collaborative projects.
+
+Skills:
+- Programming Languages: Java, C#
+- Web Development: HTML, CSS, React
+- Backend: Spring Boot, ASP.NET
+- Database: MySQL, SQL Server
+- Version Control: Git
+
+Education:
+Bachelor of Science in Computer Science
+Tech University, Cityville, USA
+Graduated: May 2020
+
+Experience:
+Software Developer
+Innovate Tech, Cityville, USA
+June 2020 - Present
+- Developed and maintained web applications using Java, Spring Boot, and React.
+- Collaborated with cross-functional teams for successful project delivery.
+
+Projects:
+1. Inventory Management System
+   - Led the development of an inventory management system using Java and MySQL.
+
+2. Blogging Platform
+   - Contributed to the development of a blogging platform using ASP.NET and SQL Server.
+
+Certifications:
+- Full-Stack Web Development Certificate (XYZ Institute)
+
+References:
+Available upon request.

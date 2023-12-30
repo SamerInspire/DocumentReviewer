@@ -1,0 +1,39 @@
+Samuel Turner
+
+Objective:
+Experienced software engineer with a focus on building scalable and efficient applications. Seeking a challenging role to apply my skills in Java, Python, and Spring Boot to contribute to innovative projects.
+
+Major:
+Developer
+
+Skills:
+- Programming Languages: Java, Python
+- Web Development: HTML, CSS, JavaScript
+- Backend: Spring Boot, Django
+- Database: MySQL, PostgreSQL
+- Version Control: Git
+
+Education:
+Bachelor of Science in Computer Science
+Tech University, Cityville, USA
+Graduated: May 2018
+
+Experience:
+Software Engineer
+Tech Solutions Inc., Cityville, USA
+June 2018 - Present
+- Developed and maintained web applications using Java and Spring Boot.
+- Collaborated with cross-functional teams for successful project delivery.
+
+Projects:
+1. Online Marketplace Upgrade
+   - Led the upgrade of an online marketplace, enhancing user experience and performance.
+
+2. Data Analysis Dashboard
+   - Developed a data analysis dashboard using JavaScript for visualizing key metrics.
+
+Certifications:
+- Full-Stack Web Development Certificate (XYZ Institute)
+
+References:
+Available upon request.

@@ -1,0 +1,7 @@
+Jane Smith
+
+Education:
+Bachelor's in Information Technology, UVW College, 2019
+
+Experience:
+Web Developer Intern at XYZ Corp, 2020

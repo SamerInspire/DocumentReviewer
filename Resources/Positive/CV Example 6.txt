@@ -1,0 +1,36 @@
+Sophia Miller
+
+Objective:
+Detail-oriented database administrator with a focus on optimizing database performance. Seeking a challenging role to apply my skills in database design, management, and optimization using MySQL and MongoDB.
+
+Skills:
+- Database Design
+- Database Management
+- SQL Query Optimization
+- MySQL, MongoDB
+- Performance Tuning
+
+Education:
+Master of Science in Information Systems
+Tech Institute of Technology, Cityville, USA
+Graduated: December 2019
+
+Experience:
+Database Administrator
+Data Systems Inc., Cityville, USA
+January 2020 - Present
+- Designed and implemented database structures to optimize data storage and retrieval.
+- Performed SQL query optimization for improved database performance.
+
+Projects:
+1. Database Migration Project
+   - Led the migration of databases from MySQL to MongoDB, ensuring data integrity.
+
+2. Performance Tuning Initiative
+   - Implemented performance tuning strategies resulting in a 20% improvement in database response time.
+
+Certifications:
+- Database Administration Certificate (XYZ Institute)
+
+References:
+Available upon request.

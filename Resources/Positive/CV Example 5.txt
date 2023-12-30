@@ -1,0 +1,39 @@
+Daniel White
+
+Objective:
+Experienced IT professional with expertise in network administration and security. Seeking a challenging role to leverage my skills in managing IT infrastructure and ensuring the security of networks.
+
+Major:
+Full Stack Developer
+
+Skills:
+- Network Administration
+- Network Security
+- System Administration
+- Firewalls and Intrusion Detection Systems
+- Cisco Certified Network Associate (CCNA)
+
+Education:
+Bachelor of Science in Information Technology
+Tech University, Cityville, USA
+Graduated: May 2017
+
+Experience:
+Network Administrator
+SecureTech Solutions, Cityville, USA
+June 2017 - Present
+- Managed and maintained network infrastructure, ensuring high availability and security.
+- Implemented security measures, including firewalls and intrusion detection systems.
+
+Projects:
+1. Network Upgrade Project
+   - Led a network upgrade project, improving overall network performance and reliability.
+
+2. Security Assessment
+   - Conducted security assessments and implemented measures to address vulnerabilities.
+
+Certifications:
+- Cisco Certified Network Associate (CCNA)
+
+References:
+Available upon request.
